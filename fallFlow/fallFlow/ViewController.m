@@ -41,6 +41,8 @@
     }
     [self.colView reloadData];
     
+    NSLog(@"github test");
+    
 }
 
 - (UICollectionView *)colView
